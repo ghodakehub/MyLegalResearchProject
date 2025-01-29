@@ -85,7 +85,7 @@
           
           <configuration>
 			  
-			  <suiteXmlFiles>LoginTest.xml</suiteXmlFiles>
+			  <suiteXmlFiles>MasterSuite.xml</suiteXmlFiles>
 		  </configuration>
        </plugin>
 					
